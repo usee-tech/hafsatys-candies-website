@@ -34,7 +34,7 @@ function AboutPage() {
 
       <section className="px-6 pb-20">
         <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
-          <img src={craftImage} alt="Artisan hands wrapping candy" loading="lazy" width={896} height={1152} className="rounded-3xl w-full aspect-[4/5] object-cover" />
+          <img src={craftImage} alt="Artisan hands wrapping candy" loading="lazy" width={896} height={1152} className="rounded-3xl w-full aspect-[4.5/5] object-cover" />
           <div className="space-y-10">
             <div>
               <h2 className="text-3xl font-display italic mb-3">Our Vision</h2>

@@ -180,9 +180,9 @@ function Home() {
           <h2 className="text-3xl md:text-4xl font-display italic text-center mb-16">Sweet Words from Our Customers</h2>
           <div className="grid md:grid-cols-3 gap-8">
             {[
-              { q: "The ILOKA milk toffees are unforgettable. We ordered for our wedding and guests still talk about them.", a: "Fatima A., Kano" },
-              { q: "Gullisuwa is perfect for our shop — fresh every week and the packaging is beautiful.", a: "Musa R., Retailer" },
-              { q: "Quality and hygiene are top-notch. My kids ask for Alawar Madara every weekend.", a: "Hafsa I., Mother" },
+              { q: "The ILOKA milk toffees are unforgettable. We ordered for our wedding and guests still talk about them.", a: "ABUZARRIN I., Kura" },
+              { q: "Gullisuwa is perfect for our shop — fresh every week and the packaging is beautiful.", a: "Usman U Muh'd., Retailer" },
+              { q: "Quality and hygiene are top-notch. My kids ask for Alawar Madara every weekend.", a: "Aisha I., Mother" },
             ].map((t, i) => (
               <figure key={i} className="bg-background rounded-2xl p-8 border border-foreground/5">
                 <blockquote className="text-foreground/80 italic font-display text-lg leading-snug">“{t.q}”</blockquote>
