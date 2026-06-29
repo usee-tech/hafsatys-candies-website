@@ -82,7 +82,7 @@ export const WHATSAPP_NUMBER = "2347088649669";
 export const WHATSAPP_DISPLAY = "+234 708 864 9669";
 export const EMAIL = "hafsatbelloabubakar893@gmail.com";
 export const ADDRESS = "Gadon Qaya, Kano, Nigeria";
-export const INSTAGRAM = "https://www.instagram.com/";
+export const INSTAGRAM = "https://www.instagram.com/cutehanan2025?igsh=MThnbmpzZTYxYnVhdQ==";
 export const TIKTOK = "https://www.tiktok.com/";
 export const FACEBOOK = "https://www.facebook.com/";
 
